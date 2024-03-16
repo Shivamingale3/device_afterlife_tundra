@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2023 The AwakenOS Project
+# Copyright (C) 2024 AfterLife Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tundra.mk
+    $(LOCAL_DIR)/afterlife_tundra.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_tundra-user \
-    aosp_tundra-userdebug \
-    aosp_tundra-eng
+    afterlife_tundra-user \
+    afterlife_tundra-userdebug \
+    afterlife_tundra-eng
