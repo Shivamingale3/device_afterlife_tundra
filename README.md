@@ -1,6 +1,6 @@
 ```
 #
-# Copyright (C) 2023 Paranoid Android
+# Copyright (C) 2024 AfterLife Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
